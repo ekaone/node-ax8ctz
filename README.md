@@ -1,7 +1,7 @@
 # node-ax8ctz
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/node-ax8ctz)
-[Redis Quick Start ⚡️](https://redis.io/topics/quickstart)
+- [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/node-ax8ctz)
+- [Redis Quick Start ⚡️](https://redis.io/topics/quickstart)
 
 ## Install Redis
 
@@ -12,7 +12,7 @@ cd redis-stable
 make
 ```
 
-### copy CLI and server
+### Copy CLI and Server
 
 ```
 sudo cp src/redis-server /usr/local/bin/
