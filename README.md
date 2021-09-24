@@ -32,3 +32,9 @@ redis-cli ping
 ```
 
 you must get PONG
+
+## Run ngrok tunnel
+
+```
+ngrok http 8080
+```
